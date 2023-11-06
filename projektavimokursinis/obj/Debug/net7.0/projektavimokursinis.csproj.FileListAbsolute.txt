@@ -1,0 +1,44 @@
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.exe
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.deps.json
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.runtimeconfig.json
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.dll
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.pdb
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.dll
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\refint\projektavimokursinis.dll
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.pdb
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.genruntimeconfig.cache
+C:\Users\Asus\RiderProjects\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\ref\projektavimokursinis.dll
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.exe
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.deps.json
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.runtimeconfig.json
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.dll
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.pdb
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.AssemblyInfoInputs.cache
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.AssemblyInfo.cs
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.csproj.CoreCompileInputs.cache
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.dll
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\refint\projektavimokursinis.dll
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.pdb
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.genruntimeconfig.cache
+C:\Users\Jankauskas\Desktop\projektavimokursinis\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\ref\projektavimokursinis.dll
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.exe
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.deps.json
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.runtimeconfig.json
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.dll
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\bin\Debug\net7.0\projektavimokursinis.pdb
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.dll
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\refint\projektavimokursinis.dll
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.pdb
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\projektavimokursinis.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Stalinis kompiuteris\projektavimokursinis\projektavimokursinis\obj\Debug\net7.0\ref\projektavimokursinis.dll
